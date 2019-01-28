@@ -1,6 +1,6 @@
 # Sigfox Platform
 
-**Warning: Project under active development, do not use it for production!**
+**This project is no longer maintain, please see the offical fork: https://github.com/IoT-Makers/sigfox-platform**
 
 ## About this project
 
